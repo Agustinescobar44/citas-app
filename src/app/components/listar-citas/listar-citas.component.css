@@ -1,0 +1,7 @@
+.card{
+    margin: 0 40px;
+}
+.card-text span{
+    color:#2563eb ;
+    font-weight: 700;
+}
